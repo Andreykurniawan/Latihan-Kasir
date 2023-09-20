@@ -12,9 +12,13 @@ type Barang struct {
 func main() {
 	// Inisialisasi daftar barang
 	daftarBarang := map[string]Barang{
-		"Buku Tulis": Barang{"Buku Tulis", 3000.0},
-		"Bolpoin":    Barang{"Bolpoin", 2000.0},
-		"Pensil":     Barang{"Pensil", 1500.0},
+		"Buku Tulis":   Barang{"Buku Tulis", 3000.0},
+		"Bolpoin":      Barang{"Bolpoin", 2000.0},
+		"Pensil":       Barang{"Pensil", 1500.0},
+		"Stopmap":      Barang{"Stopmap", 1000.0},
+		"Binder":       Barang{"Binder", 35000.0},
+		"Penghapus":    Barang{"Penghapus", 3000.0},
+		"Tipex Kertas": Barang{"Tipex Kertas", 7000.0},
 	}
 
 	// Inisialisasi keranjang belanja
