@@ -1,0 +1,26 @@
+    Selamat datang di aplikasi kasir!
+
+    Daftar Barang :
+    Buku Tulis - Buku Tulis - Rp. 3000.00
+    Bolpoin - Bolpoin - Rp. 2000.00 
+    Pensil - Pensil - Rp. 1500.00
+    Stopmap - Stopmap - Rp. 1000.00
+    Binder - Binder - Rp. 35000.00
+    Penghapus - Penghapus - Rp.3000.00
+    Tipex Kertas - Tipex Kertas - Rp.7000.00
+    Pilih barang (ketik 'selesai' untuk menyelesaikan transaksi): Bolpoin
+    Jumlah Bolpoin yang dibeli : 3
+
+     Daftar Barang :
+    Buku Tulis - Buku Tulis - Rp. 3000.00
+    Bolpoin - Bolpoin - Rp. 2000.00 
+    Pensil - Pensil - Rp. 1500.00
+    Stopmap - Stopmap - Rp. 1000.00
+    Binder - Binder - Rp. 35000.00
+    Penghapus - Penghapus - Rp.3000.00
+    Tipex Kertas - Tipex Kertas - Rp.7000.00
+    Pilih barang (ketik 'selesai' untuk menyelesaikan transaksi): selesai
+
+    Barang yang dibeli:
+    Bolpoin - Bolpoin - 3 buah - Subtotal: Rp.6000.00
+    Total biaya belanja: Rp.6000.00
